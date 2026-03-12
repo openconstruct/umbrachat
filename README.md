@@ -7,5 +7,7 @@ Umbrachat is a continuation of the Peersuite project with a different aim. Umbra
 
 
 Chrome- https://chromewebstore.google.com/detail/umbrachat/jdgneoijldkiffdnhkibcdnajchecaip?hl=en-US&pli=1
+
 Firefox- https://addons.mozilla.org/en-US/firefox/addon/umbrachat/
+
 Edge- https://microsoftedge.microsoft.com/addons/detail/umbrachat/pnmkbgnplggpjbdchfpiglbjipaabblo
