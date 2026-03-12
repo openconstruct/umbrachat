@@ -4,3 +4,8 @@ Umbrachat is a continuation of the Peersuite project with a different aim. Umbra
    You can use Umbrachat online at https://umbrabrowser.online/chat .
     I have started maintaining a private browser named Umbra, and this extension will be installed by default. Hence the namechange, and tbh I think it sounds better anyway.
 
+
+
+Chrome- https://chromewebstore.google.com/detail/umbrachat/jdgneoijldkiffdnhkibcdnajchecaip?hl=en-US&pli=1
+Firefox- https://addons.mozilla.org/en-US/firefox/addon/umbrachat/
+Edge- https://microsoftedge.microsoft.com/addons/detail/umbrachat/pnmkbgnplggpjbdchfpiglbjipaabblo
